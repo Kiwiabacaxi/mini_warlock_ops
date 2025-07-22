@@ -1,0 +1,150 @@
+{
+  "success": true,
+  "data": {
+    "total_prs": 763,
+    "open_prs": 81,
+    "closed_prs": 103,
+    "merged_prs": 579,
+    "draft_prs": 78,
+    "date_range": {
+      "start": "2025-07-01",
+      "end": "2025-07-22"
+    },
+    "leaderboard": [
+      {
+        "author": "bpasero",
+        "total_prs": 75,
+        "open_prs": 0,
+        "merged_prs": 72,
+        "closed_prs": 3,
+        "draft_prs": 2,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "copilot-swe-agent",
+        "total_prs": 69,
+        "open_prs": 14,
+        "merged_prs": 18,
+        "closed_prs": 37,
+        "draft_prs": 49,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "sandy081",
+        "total_prs": 48,
+        "open_prs": 2,
+        "merged_prs": 44,
+        "closed_prs": 2,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "lszomoru",
+        "total_prs": 44,
+        "open_prs": 0,
+        "merged_prs": 34,
+        "closed_prs": 10,
+        "draft_prs": 6,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "hediet",
+        "total_prs": 43,
+        "open_prs": 0,
+        "merged_prs": 40,
+        "closed_prs": 3,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "aeschli",
+        "total_prs": 38,
+        "open_prs": 0,
+        "merged_prs": 38,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "Tyriar",
+        "total_prs": 36,
+        "open_prs": 2,
+        "merged_prs": 32,
+        "closed_prs": 2,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "justschen",
+        "total_prs": 34,
+        "open_prs": 0,
+        "merged_prs": 31,
+        "closed_prs": 3,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "mjbvz",
+        "total_prs": 33,
+        "open_prs": 3,
+        "merged_prs": 27,
+        "closed_prs": 3,
+        "draft_prs": 3,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "meganrogge",
+        "total_prs": 32,
+        "open_prs": 1,
+        "merged_prs": 30,
+        "closed_prs": 1,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "bhavyaus",
+        "total_prs": 27,
+        "open_prs": 1,
+        "merged_prs": 23,
+        "closed_prs": 3,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "benibenj",
+        "total_prs": 26,
+        "open_prs": 1,
+        "merged_prs": 16,
+        "closed_prs": 9,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "roblourens",
+        "total_prs": 20,
+        "open_prs": 1,
+        "merged_prs": 16,
+        "closed_prs": 3,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "aiday-mar",
+        "total_prs": 19,
+        "open_prs": 5,
+        "merged_prs": 12,
+        "closed_prs": 2,
+        "draft_prs": 6,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "connor4312",
+        "total_prs": 16,
+        "open_prs": 0,
+        "merged_prs": 16,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "deepak1556",

@@ -1,0 +1,200 @@
+{
+  "success": true,
+  "data": {
+    "total_commits": 814,
+    "unique_authors": 86,
+    "date_range": {
+      "start": "2025-07-01",
+      "end": "2025-07-22"
+    },
+    "leaderboard": [
+      {
+        "author": "Daniel Imms",
+        "email": "2193314+Tyriar@users.noreply.github.com",
+        "commits": 141,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Matt Bierner",
+        "email": "matb@microsoft.com",
+        "commits": 74,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Benjamin Pasero",
+        "email": "benjamin.pasero@microsoft.com",
+        "commits": 71,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Sandeep Somavarapu",
+        "email": "sasomava@microsoft.com",
+        "commits": 42,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Henning Dieterichs",
+        "email": "hdieterichs@microsoft.com",
+        "commits": 38,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Megan Rogge",
+        "email": "merogge@microsoft.com",
+        "commits": 36,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Ladislau Szomoru",
+        "email": "3372902+lszomoru@users.noreply.github.com",
+        "commits": 33,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Martin Aeschlimann",
+        "email": "martinae@microsoft.com",
+        "commits": 33,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Copilot",
+        "email": "198982749+Copilot@users.noreply.github.com",
+        "commits": 31,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Justin Chen",
+        "email": "54879025+justschen@users.noreply.github.com",
+        "commits": 30,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Bhavya U",
+        "email": "bhavyau@microsoft.com",
+        "commits": 19,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Benjamin Christopher Simmonds",
+        "email": "44439583+benibenj@users.noreply.github.com",
+        "commits": 17,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Osvaldo Ortega",
+        "email": "osortega@microsoft.com",
+        "commits": 17,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Connor Peet",
+        "email": "copeet@microsoft.com",
+        "commits": 14,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Harald Kirschner",
+        "email": "hkirschner@microsoft.com",
+        "commits": 14,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Rob Lourens",
+        "email": "roblourens@gmail.com",
+        "commits": 14,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Aiday Marlen Kyzy",
+        "email": "amarlenkyzy@microsoft.com",
+        "commits": 13,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Alexandru Dima",
+        "email": "alexdima@microsoft.com",
+        "commits": 11,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Robo",
+        "email": "hop2deep@gmail.com",
+        "commits": 11,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Don Jayamanne",
+        "email": "don.jayamanne@outlook.com",
+        "commits": 9,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Josh Spicer",
+        "email": "23246594+joshspicer@users.noreply.github.com",
+        "commits": 8,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Osvaldo Ortega",
+        "email": "48293249+osortega@users.noreply.github.com",
+        "commits": 8,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Raymond Zhao",
+        "email": "7199958+rzhao271@users.noreply.github.com",
+        "commits": 7,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "João Moreno",
+        "email": "joaomoreno@users.noreply.github.com",
+        "commits": 7,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Alex Ross",
+        "email": "38270282+alexr00@users.noreply.github.com",
+        "commits": 7,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Elijah King",
+        "email": "elijahwilliamking@icloud.com",
+        "commits": 6,
+        "additions": 0,
+        "deletions": 0
+      },
+      {
+        "author": "Tyler James Leonhardt",
+        "email": "2644648+TylerLeonhardt@users.noreply.github.com",
+        "commits": 6,
+        "additions": 0,
+        "deletions": 0
+      },
+      {

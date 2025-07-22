@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "data": [
+    {
+      "owner": "microsoft",
+      "name": "winget-pkgs",
+      "full_name": "microsoft/winget-pkgs",
+      "description": "The Microsoft community Windows Package Manager manifest repository",
+      "private": false,
+      "fork": false,
+      "created_at": "2019-07-16T22:21:48Z",
+      "updated_at": "2025-07-21T18:52:24Z",
+      "language": "PowerShell",
+      "stars": 9547,
+      "forks": 5242
+    },
+    {
+      "owner": "microsoft",
+      "name": "qsharp",
+      "full_name": "microsoft/qsharp",
+      "description": "Azure Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas",
+      "private": false,
+      "fork": false,
+      "created_at": "2023-01-26T20:07:33Z",
+      "updated_at": "2025-07-21T18:52:18Z",
+      "language": "Rust",
+      "stars": 735,
+      "forks": 132
+    },
+    {
+      "owner": "microsoft",
+      "name": "fluentui-blazor",
+      "full_name": "microsoft/fluentui-blazor",
+      "description": "Microsoft Fluent UI Blazor components library. For use with ASP.NET Core Blazor applications",
+      "private": false,
+      "fork": false,
+      "created_at": "2021-03-15T21:48:18Z",
+      "updated_at": "2025-07-21T18:52:03Z",
+      "language": "C#",
+      "stars": 4437,
+      "forks": 432
+    }
+  ]
+}

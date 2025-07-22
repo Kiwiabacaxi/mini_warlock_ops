@@ -1,0 +1,992 @@
+{
+  "success": true,
+  "data": {
+    "total_prs": 763,
+    "open_prs": 81,
+    "closed_prs": 103,
+    "merged_prs": 579,
+    "draft_prs": 78,
+    "date_range": {
+      "start": "2025-07-01",
+      "end": "2025-07-22"
+    },
+    "leaderboard": [
+      {
+        "author": "bpasero",
+        "total_prs": 75,
+        "open_prs": 0,
+        "merged_prs": 72,
+        "closed_prs": 3,
+        "draft_prs": 2,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "copilot-swe-agent",
+        "total_prs": 69,
+        "open_prs": 14,
+        "merged_prs": 18,
+        "closed_prs": 37,
+        "draft_prs": 49,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "sandy081",
+        "total_prs": 48,
+        "open_prs": 2,
+        "merged_prs": 44,
+        "closed_prs": 2,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "lszomoru",
+        "total_prs": 44,
+        "open_prs": 0,
+        "merged_prs": 34,
+        "closed_prs": 10,
+        "draft_prs": 6,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "hediet",
+        "total_prs": 43,
+        "open_prs": 0,
+        "merged_prs": 40,
+        "closed_prs": 3,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "aeschli",
+        "total_prs": 38,
+        "open_prs": 0,
+        "merged_prs": 38,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "Tyriar",
+        "total_prs": 36,
+        "open_prs": 2,
+        "merged_prs": 32,
+        "closed_prs": 2,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "justschen",
+        "total_prs": 34,
+        "open_prs": 0,
+        "merged_prs": 31,
+        "closed_prs": 3,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "mjbvz",
+        "total_prs": 33,
+        "open_prs": 3,
+        "merged_prs": 27,
+        "closed_prs": 3,
+        "draft_prs": 3,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "meganrogge",
+        "total_prs": 32,
+        "open_prs": 1,
+        "merged_prs": 30,
+        "closed_prs": 1,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "bhavyaus",
+        "total_prs": 27,
+        "open_prs": 1,
+        "merged_prs": 23,
+        "closed_prs": 3,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "benibenj",
+        "total_prs": 26,
+        "open_prs": 1,
+        "merged_prs": 16,
+        "closed_prs": 9,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "roblourens",
+        "total_prs": 20,
+        "open_prs": 1,
+        "merged_prs": 16,
+        "closed_prs": 3,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "aiday-mar",
+        "total_prs": 19,
+        "open_prs": 5,
+        "merged_prs": 12,
+        "closed_prs": 2,
+        "draft_prs": 6,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "connor4312",
+        "total_prs": 16,
+        "open_prs": 0,
+        "merged_prs": 16,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "deepak1556",
+        "total_prs": 12,
+        "open_prs": 0,
+        "merged_prs": 11,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "joshspicer",
+        "total_prs": 12,
+        "open_prs": 1,
+        "merged_prs": 9,
+        "closed_prs": 2,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "DonJayamanne",
+        "total_prs": 10,
+        "open_prs": 1,
+        "merged_prs": 9,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "alexr00",
+        "total_prs": 10,
+        "open_prs": 0,
+        "merged_prs": 10,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "osortega",
+        "total_prs": 9,
+        "open_prs": 2,
+        "merged_prs": 7,
+        "closed_prs": 0,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "joaomoreno",
+        "total_prs": 8,
+        "open_prs": 1,
+        "merged_prs": 7,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "rzhao271",
+        "total_prs": 7,
+        "open_prs": 0,
+        "merged_prs": 7,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "alexdima",
+        "total_prs": 7,
+        "open_prs": 0,
+        "merged_prs": 7,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "digitarald",
+        "total_prs": 7,
+        "open_prs": 0,
+        "merged_prs": 6,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "TylerLeonhardt",
+        "total_prs": 6,
+        "open_prs": 0,
+        "merged_prs": 6,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "eli-w-king",
+        "total_prs": 6,
+        "open_prs": 3,
+        "merged_prs": 2,
+        "closed_prs": 1,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "Yoyokrazy",
+        "total_prs": 6,
+        "open_prs": 0,
+        "merged_prs": 5,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "nguyenchristy",
+        "total_prs": 6,
+        "open_prs": 0,
+        "merged_prs": 6,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "dependabot",
+        "total_prs": 5,
+        "open_prs": 3,
+        "merged_prs": 2,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "amunger",
+        "total_prs": 5,
+        "open_prs": 0,
+        "merged_prs": 4,
+        "closed_prs": 1,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "SimonSiefke",
+        "total_prs": 4,
+        "open_prs": 2,
+        "merged_prs": 2,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "kaziwahidaltaher-droid",
+        "total_prs": 3,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 2,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "tmm1",
+        "total_prs": 3,
+        "open_prs": 1,
+        "merged_prs": 2,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "mrleemurray",
+        "total_prs": 3,
+        "open_prs": 0,
+        "merged_prs": 2,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "lramos15",
+        "total_prs": 3,
+        "open_prs": 0,
+        "merged_prs": 3,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "rebornix",
+        "total_prs": 3,
+        "open_prs": 2,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "anthonykim1",
+        "total_prs": 3,
+        "open_prs": 1,
+        "merged_prs": 2,
+        "closed_prs": 0,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "JJJJJJ-git",
+        "total_prs": 2,
+        "open_prs": 1,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "yamachu",
+        "total_prs": 2,
+        "open_prs": 0,
+        "merged_prs": 2,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "khabzox",
+        "total_prs": 2,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "remcohaszing",
+        "total_prs": 2,
+        "open_prs": 0,
+        "merged_prs": 2,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "erikolofsson",
+        "total_prs": 2,
+        "open_prs": 2,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "isidorn",
+        "total_prs": 2,
+        "open_prs": 0,
+        "merged_prs": 2,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "kr1shnasomani",
+        "total_prs": 2,
+        "open_prs": 0,
+        "merged_prs": 0,
+        "closed_prs": 2,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "braden-w",
+        "total_prs": 2,
+        "open_prs": 2,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "estrizhok",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "kenherring",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "ipenas-cl",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "timheuer",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "dbaeumer",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "joyceerhl",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "ahmadsh2007",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "Escarcega1989",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "CrazySteve0605",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "kplates",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "CyberSully",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "BartolHrg",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "language0039",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "basicprogrammer30",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "premdood",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "baptiste0928",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "RedCMD",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "justin39",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "notoriousmango",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "softnado",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "imbant",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "andy0130tw",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "Mohammedziad599",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "Stock-Owl",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "tersayang3552",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "Yashwanthg13",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "Schpoone",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "hickford",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "massa-kj",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "CSharperMantle",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "jiahaoxiang2000",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "bytemain",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "martijnwalraven",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "HolgerJeromin",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "suhas45",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "hunterhogan",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "SoloJiang",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "zeevoffen",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "Jiogo18",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "lionel-rowe",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "mortalYoung",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "wcbing",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "madskristensen",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "Arcweld1",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 0,
+        "closed_prs": 1,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "chrmarti",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 1,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "eoleedi",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "joelverhagen",
+        "total_prs": 1,
+        "open_prs": 0,
+        "merged_prs": 1,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 12.83255229322587
+      },
+      {
+        "author": "andrewDoing",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      },
+      {
+        "author": "DustRespirator",
+        "total_prs": 1,
+        "open_prs": 1,
+        "merged_prs": 0,
+        "closed_prs": 0,
+        "draft_prs": 0,
+        "avg_merge_time_hours": 0
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2025-07-01",
+        "created": 38,
+        "merged": 30,
+        "closed": 4
+      },
+      {
+        "date": "2025-07-02",
+        "created": 69,
+        "merged": 52,
+        "closed": 13
+      },
+      {
+        "date": "2025-07-03",
+        "created": 73,
+        "merged": 51,
+        "closed": 20
+      },
+      {
+        "date": "2025-07-04",
+        "created": 38,
+        "merged": 33,
+        "closed": 3
+      },
+      {
+        "date": "2025-07-05",
+        "created": 12,
+        "merged": 8,
+        "closed": 2
+      },
+      {
+        "date": "2025-07-06",
+        "created": 6,
+        "merged": 4,
+        "closed": 0
+      },
+      {
+        "date": "2025-07-07",
+        "created": 48,
+        "merged": 36,
+        "closed": 10
+      },
+      {
+        "date": "2025-07-08",
+        "created": 49,
+        "merged": 40,
+        "closed": 5
+      },
+      {
+        "date": "2025-07-09",
+        "created": 52,
+        "merged": 46,
+        "closed": 2
+      },
+      {
+        "date": "2025-07-10",
+        "created": 42,
+        "merged": 25,
+        "closed": 7
+      },
+      {
+        "date": "2025-07-11",
+        "created": 59,
+        "merged": 47,
+        "closed": 8
+      },
+      {
+        "date": "2025-07-12",
+        "created": 12,
+        "merged": 5,
+        "closed": 4
+      },
+      {
+        "date": "2025-07-13",
+        "created": 6,
+        "merged": 5,
+        "closed": 0
+      },
+      {
+        "date": "2025-07-14",
+        "created": 44,
+        "merged": 34,
+        "closed": 9
+      },
+      {
+        "date": "2025-07-15",
+        "created": 41,
+        "merged": 30,
+        "closed": 5
+      },
+      {
+        "date": "2025-07-16",
+        "created": 41,
+        "merged": 37,
+        "closed": 1
+      },
+      {
+        "date": "2025-07-17",
+        "created": 49,
+        "merged": 36,
+        "closed": 4
+      },
+      {
+        "date": "2025-07-18",
+        "created": 45,
+        "merged": 35,
+        "closed": 4
+      },
+      {
+        "date": "2025-07-19",
+        "created": 7,
+        "merged": 5,
+        "closed": 0
+      },
+      {
+        "date": "2025-07-20",
+        "created": 8,
+        "merged": 5,
+        "closed": 2
+      },
+      {
+        "date": "2025-07-21",
+        "created": 24,
+        "merged": 15,
+        "closed": 0
+      }
+    ],
+    "avg_merge_time_hours": 12.83255229322587,
+    "approval_rate": 75.88466579292268
+  }
+}
